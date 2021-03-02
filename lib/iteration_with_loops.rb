@@ -15,4 +15,6 @@ def find_min_in_nested_arrays(src)
       min_array << minimum
       o_counter += 1
     end
+
+    min_array
 end
